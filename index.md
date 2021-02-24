@@ -10,9 +10,4 @@
 
 
 # Cluster Analysis
-### Cluster Analysis project
-* This Web pages provide various links and information on my Cluster Analysis course.
-* They have been written using the gh-pages branch of Github. 
-* To access to the Github Repository click on the blue link above. 
-
 
